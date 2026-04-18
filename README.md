@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: João Pedro Aguiar do Prado
 
 ## Visão Geral do Projeto
 
